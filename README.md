@@ -1,0 +1,2 @@
+# Manifesto
+Another manifesto.
