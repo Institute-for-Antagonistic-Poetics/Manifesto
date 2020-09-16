@@ -1,2 +1,2 @@
-# Manifesto
-Another manifesto.
+# Manifestos
+Another manifesto repository.
